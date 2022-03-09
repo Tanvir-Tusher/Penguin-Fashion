@@ -1,0 +1,109 @@
+body{
+     background-color: #fffefe;
+}
+.home{
+     background-color: #FFFBF0;
+}
+.container {
+     margin-bottom: 150px;
+ }
+ .container ul li{
+     padding-left: 48px;
+     font-weight:bold;
+     font-family: robboto;
+     
+ }
+ .model h1{
+     font-family: Bebas Neue;
+     font-size:80px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 96px;
+     letter-spacing: 0em;
+     text-align: left;
+
+}
+ .container .penguins{
+      color:#FABE4C;
+     
+ }
+ .container .winter{
+      color: #363958;
+ }
+
+.model-pic{
+     height: 559px;
+     width: 549px;
+     border-radius: 0px;
+
+}
+button{
+     background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+     height: 60px;
+     width: 170px;
+     left: 320px;
+     top: 1310px;
+     border-radius: 10px;
+     border: none;
+     color: white;
+}
+.women-jacket h2{
+     color: #363958;
+     font-family: bebas neue;
+     font-size: 48px;
+
+}
+.man-jacket h2{
+     color: #363958;
+     font-family: bebas neue;
+     font-size: 48px;
+}
+.card{
+     padding: 20px;
+     border-radius: 20px;
+     border: none;
+     box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+}
+.jacket{
+     background-color: #F1F1F1;
+     border-radius: 20px;
+     padding: 20px;
+     margin: 10px;
+}
+.card-bottom{
+     color: #FABE4C;
+}
+.card-title{
+     font-family: robboto;
+     size: 24px;
+     font-weight: 700;
+
+}
+.services h4{
+     color: #363958;
+     font-family: robboto;
+     font-weight: 700;
+     size: 30px;    
+}
+.services p{
+     font-family: Roboto;
+     font-size: 16px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 26px;
+     letter-spacing: 0em;
+     text-align: left;
+}
+.service-card{
+     background-color: #FFFFFF;
+     box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+     border-radius: 20px;
+     margin: 16px;
+     width: 600px;
+     height: 135px;
+     
+}
+.shopping{
+     margin-left: px;
+
+}
